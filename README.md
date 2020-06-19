@@ -14,3 +14,9 @@ mathematical calculation can improve the analysis accuracy. The dataset of the m
 will be collected on IMDB movie reviews database.
 Numpy, Pandas are used.
 Tensorfloww 2.2.0 is used in google colab
+
+NOTE:
+There is a set of 25,000 highly polar movie reviews for training and 25,000 for testing. This project helps in analyzing the reviews that the review is positive or negative.
+Here we get an accuracy of 84.24% in the test set.
+Also, another point to be noticed is that the results on the training set are a bit better than the results on the test set, which indicates that the model might be over-fitting a bit.
+
